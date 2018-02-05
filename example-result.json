@@ -1,0 +1,241 @@
+{
+  "landmarkAnnotations": [
+    {
+      "mid": "/m/0xsq6",
+      "description": "Battersea Power Station",
+      "score": 0.6383035,
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 187,
+            "y": 172
+          },
+          {
+            "x": 450,
+            "y": 172
+          },
+          {
+            "x": 450,
+            "y": 211
+          },
+          {
+            "x": 187,
+            "y": 211
+          }
+        ]
+      },
+      "locations": [
+        {
+          "latLng": {
+            "latitude": 51.482719,
+            "longitude": -0.144839
+          }
+        }
+      ]
+    }
+  ],
+  "labelAnnotations": [
+    {
+      "mid": "/m/03rnh",
+      "description": "industry",
+      "score": 0.79306996,
+      "topicality": 0.79306996
+    },
+    {
+      "mid": "/m/01f2sl",
+      "description": "power station",
+      "score": 0.69307435,
+      "topicality": 0.69307435
+    },
+    {
+      "mid": "/m/0cgh4",
+      "description": "building",
+      "score": 0.58751947,
+      "topicality": 0.58751947
+    },
+    {
+      "mid": "/m/0168g6",
+      "description": "factory",
+      "score": 0.54195744,
+      "topicality": 0.54195744
+    },
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.5008828,
+      "topicality": 0.5008828
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 224,
+            "green": 197,
+            "blue": 136
+          },
+          "score": 0.22920254,
+          "pixelFraction": 0.032422893
+        },
+        {
+          "color": {
+            "red": 78,
+            "green": 46,
+            "blue": 21
+          },
+          "score": 0.11903816,
+          "pixelFraction": 0.07255667
+        },
+        {
+          "color": {
+            "red": 102,
+            "green": 65,
+            "blue": 28
+          },
+          "score": 0.07953877,
+          "pixelFraction": 0.028335191
+        },
+        {
+          "color": {
+            "red": 217,
+            "green": 230,
+            "blue": 222
+          },
+          "score": 0.07253089,
+          "pixelFraction": 0.25947604
+        },
+        {
+          "color": {
+            "red": 61,
+            "green": 44,
+            "blue": 22
+          },
+          "score": 0.096893914,
+          "pixelFraction": 0.084169455
+        },
+        {
+          "color": {
+            "red": 169,
+            "green": 55,
+            "blue": 3
+          },
+          "score": 0.0009625929,
+          "pixelFraction": 0.000092902264
+        },
+        {
+          "color": {
+            "red": 213,
+            "green": 200,
+            "blue": 165
+          },
+          "score": 0.07739751,
+          "pixelFraction": 0.020624302
+        },
+        {
+          "color": {
+            "red": 91,
+            "green": 54,
+            "blue": 20
+          },
+          "score": 0.047918867,
+          "pixelFraction": 0.018580453
+        },
+        {
+          "color": {
+            "red": 41,
+            "green": 27,
+            "blue": 8
+          },
+          "score": 0.038730852,
+          "pixelFraction": 0.036789298
+        },
+        {
+          "color": {
+            "red": 227,
+            "green": 196,
+            "blue": 114
+          },
+          "score": 0.029308539,
+          "pixelFraction": 0.002787068
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 117
+            },
+            {
+              "x": 421
+            },
+            {
+              "x": 421,
+              "y": 370
+            },
+            {
+              "x": 117,
+              "y": 370
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.66999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 98
+            },
+            {
+              "x": 474
+            },
+            {
+              "x": 474,
+              "y": 370
+            },
+            {
+              "x": 98,
+              "y": 370
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.77
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 98
+            },
+            {
+              "x": 546
+            },
+            {
+              "x": 546,
+              "y": 370
+            },
+            {
+              "x": 98,
+              "y": 370
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.83
+      }
+    ]
+  },
