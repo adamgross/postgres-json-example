@@ -10,7 +10,7 @@ CREATE TABLE "images_sample_data" (
 	"google_properties" jsonb
 )
 WITH (OIDS=FALSE);
-ALTER TABLE "images_sample_data" OWNER TO "instapg";
+
 
 -- ----------------------------
 --  Records of images_sample_data
